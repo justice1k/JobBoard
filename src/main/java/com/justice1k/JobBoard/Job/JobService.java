@@ -1,4 +1,4 @@
-package com.justice1k.JobBoard.job;
+package com.justice1k.JobBoard.Job;
 
 import java.util.List;
 

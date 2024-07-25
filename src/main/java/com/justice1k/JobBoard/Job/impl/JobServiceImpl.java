@@ -1,8 +1,8 @@
-package com.justice1k.JobBoard.job.impl;
+package com.justice1k.JobBoard.Job.impl;
 
-import com.justice1k.JobBoard.job.Job;
-import com.justice1k.JobBoard.job.JobRepository;
-import com.justice1k.JobBoard.job.JobService;
+import com.justice1k.JobBoard.Job.Job;
+import com.justice1k.JobBoard.Job.JobRepository;
+import com.justice1k.JobBoard.Job.JobService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
